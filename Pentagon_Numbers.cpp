@@ -29,7 +29,6 @@ void Difference(){
                         cout<<"j = "<<j<<endl;
                         cout<<"k = "<<k<<endl;
                         cout<<"Difference = "<< abs(pentagonal_number[j] - pentagonal_number[k])<<endl;
-                        myfile.close();
                         //return;
                     }
 			}
